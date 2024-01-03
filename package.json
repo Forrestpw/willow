@@ -16,5 +16,11 @@
     "dependencies": {
         "@inertiajs/inertia": "^0.11.0",
         "@inertiajs/inertia-vue3": "^0.6.0"
-    }
+    },
+    "name": "willow",
+    "version": "1.0.0",
+    "main": "app.blade.php",
+    "repository": "git@github.com:forrestpatwalker/willow.git",
+    "author": "Forrest Walker <forrestpatwalker@hotmail.com>",
+    "license": "MIT"
 }
